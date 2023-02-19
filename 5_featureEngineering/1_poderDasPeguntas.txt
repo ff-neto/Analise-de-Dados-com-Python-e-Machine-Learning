@@ -1,0 +1,29 @@
+criando novos dados (Feature Engineering)
+
+* Faça perguntas que você gostaria de responder!
+
+    - Quais lojas mais vendem?
+    
+    - Quais produtos mais vendem?
+
+    - Quais lojas geram maior receita?
+
+    - Quais produtos geram maior receita?
+
+    - Existe algum cliente que mais realiza compras?
+
+    - Existe alguma relação entre loja e cliente?
+
+    - Qual o tempo médio entre compra e pagamento? (tempo_pg)
+
+    - Existe alguma loja em que esse tempo é menor? E produto?
+
+    - Qual produto mais gera inadimplência? (pg)
+
+    - Qual loja tem mais inadimplência?
+
+    - Existe alguma relação entre idade e inadimplência? (cliente_idade)
+
+    - É possível prever inadimplência através dos dados idade, cidade e produto?
+
+* Gere novos dados ou transforme!
