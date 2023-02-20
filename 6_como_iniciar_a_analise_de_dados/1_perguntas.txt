@@ -1,0 +1,37 @@
+Como iniciar a análise de dados???
+
+- Quais lojas mais vendem?
+
+- Quais produtos mais vendem?
+
+- Quais lojas geram maior receita?
+
+- Quais produtos geram maior receita?
+
+- Existe algum cliente que gera maior receita?
+
+- Qual o tempo médio entre compra e pagamento?
+
+- Existe alguma loja em que esse tempo é menor? E produto?
+
+- Existe alguma receita usando combinação entre 
+  produto e loja que maisse destaca?
+
+- Qual produto gera maior inadimplência?
+
+- Qual loja tem maior inadimplência?
+
+-- ---------------------------------------------------------------
+(hipótese)
+- Existe sazonalidade? Por loja? Por produto?
+
+- As vendas estão crescendo a cada ano?
+
+- A loja que mais vende é a que mais gera inadimplência?
+
+- Existe alguma relação entre idade e inadimplência?
+
+-- ---------------------------------------------------------------
+(Problema - Machine Learning)
+- É possivel prever inadimplência através dos dados
+  idade, cidade e produto?
