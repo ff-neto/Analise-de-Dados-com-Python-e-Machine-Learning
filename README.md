@@ -1,5 +1,5 @@
 ## Analise de Dados com Python e Machine Learning
-> Status: finished ❌
+> Status: finished ✔️
 
 ### <strong>Descrição</strong>
 
@@ -62,3 +62,8 @@
     </strong>
 </h4>
 <br>
+
+### <strong>Certificado de conclusão</strong>
+<br>
+
+![UC-d1bb67e3-8f83-4092-91cb-704166634004](https://user-images.githubusercontent.com/60360540/226078419-c72a77a9-0e1f-4eae-88c9-67900ab72c04.jpg)
